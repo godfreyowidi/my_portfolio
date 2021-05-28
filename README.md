@@ -1,5 +1,5 @@
 # **my_Portfolio**
-
+![Page Snippet](/assets/page_snip.jpg)
 #### Portfolio highlighting on a description about myself and touching on my academic and professional   
 #### achievement while also explaining my interest in programming and technology as a whole.   
 #### A special thank to Epicodus for giving this rare opportunity!
