@@ -27,8 +27,9 @@
 * Windows PC or Mac OS
 * Internet Connection
 * Browser
+* Editor
 
-### Installation
+## **Setup/Installation**
 
 1. Clone the project repository from [Github](https://github.com/godfreyowidi/my_portfolio)
 
@@ -38,7 +39,9 @@
 
 4. Identify _index.html_ from the list of items display on the editor.
 
-5. Right click on the file and choose to 
+5. Right click on the file and choose to _open with_ browser.
+
+6. You can now emjoy viewing and reading through the page.
 
 ## **Known Bugs**
 
