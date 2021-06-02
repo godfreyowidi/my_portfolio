@@ -20,7 +20,8 @@ h {
   float: left;
   position: relative;
   top: 40px;
-  display: inline-flexbox;
+  vertical-align: auto;
+  display: table-cell;
 }
 
 .content {
@@ -47,10 +48,6 @@ h {
 h1 {
   margin: 10px;
   padding: 2px;
-}
-
-.socials {
-  
 }
 
 p {
